@@ -1,4 +1,4 @@
-#Heart Disease Prediction Project
+# Heart Disease Prediction Project
 
 Project Overview
 
@@ -70,6 +70,22 @@ Here are some key visualizations from the project:
 
 *Description*: Heatmap showing correlations between features.
 
+Screenshots
+Here are a few screenshots of the web application in action:
+
+## Screenshots
+
+Here are a few screenshots of the web application in action:
+
+- **Screenshot 1**: how the Home page looks.
+  ![Screenshot 1](assets/screenshot_1.png)
+
+- **Screenshot 2**: where the user can input characteristics of Heart Disease.
+  ![Screenshot 2](assets/screenshot_2.png)
+
+- **Screenshot 3**: Prediction result showing whether the disease is Heart Disease or not.
+  ![Screenshot 3](assets/screenshot_3.png)
+  
 ## How to Use
 
 1. **Clone the Repository**:
